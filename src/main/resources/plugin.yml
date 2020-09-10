@@ -1,0 +1,9 @@
+name: StaatskasseAPI
+version: 0.1
+author: MelonigeMelone
+main: de.melonigemelone.staatskasse.StaatskasseAPI
+
+depend: [Vault]
+
+commands:
+  staatskasse:
